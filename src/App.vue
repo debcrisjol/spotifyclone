@@ -50,7 +50,7 @@
                     <img 
                       class="rounded-full" 
                       width="27"
-                      src="#"
+                      src="./assets/me.png"
                     >
                     <div class="text-white text-[14px] ml-1.5 font-semibold">Cris Dev</div>
                     <ChevronDown v-if="!openMenu" @click="openMenu = true" fillColor="#FFFFFF" :size="25" />
